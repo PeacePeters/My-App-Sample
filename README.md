@@ -1,3 +1,3 @@
 # myApp
 
-This is my application
+This is an application created using the terminal.
